@@ -1,5 +1,6 @@
 # ETHZ-AlgoLab-2020
 Solutions to problems of the Algorithms Lab ETH Zurich course HS2020.
+Some problems stay the same over the years so I hope this repo can help someone :)
 
 ## Exercises
 
